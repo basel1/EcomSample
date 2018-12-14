@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EcomSample</string>
+    <string name="app_name">Minetos</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -10,15 +10,27 @@
     <string name="action_cart">Cart</string>
     <string name="action_notifications">Notifications</string>
 
-    <string name="item_1">Offers</string>
-    <string name="item_2">Electronics</string>
-    <string name="item_3">Lifestyle</string>
-    <string name="item_4">Home Appliances</string>
-    <string name="item_5">Books \u0026 More</string>
-    <string name="item_6">More</string>
+    <string name="item_1">العروض</string>
+    <string name="item_2">معدات الطبخ</string>
+    <string name="item_3">أوانى الطعام</string>
+    <string name="item_4">مستلزمات النوم</string>
+    <string name="item_5">فرشات</string>
+    <string name="item_6">اكسسوارات المطبخ</string>
+    <string name="item_7">منظمات وأدوات التخزين</string>
+    <string name="item_8">أدوات كهربائية</string>
+    <string name="item_9">أكواب وأدوات شرب</string>
+    <string name="item_10">ساعات</string>
+    <string name="item_11">معدات يدوية</string>
+    <string name="item_12">الكراسى والمقاعد</string>
+    <string name="item_13">لوازم الأدوات الكهربائية والإلكترونية</string>
+    <string name="item_14">أدوات الشوى وملحقاتها</string>
+    <string name="item_15">شوايات وماكنات تدخين الطعام</string>
+    <string name="item_16">أدوات ومستلزمات الخبز</string>
+    <string name="item_17">أدوات تحضير الأكل</string>
+
 
     <string name="my_profile">My Profile</string>
-    <string name="my_rewards">My Rewards</string>
+   <!-- <string name="my_rewards">My Rewards</string> -->
     <string name="my_orders">My Orders</string>
     <string name="my_cart">My Cart</string>
     <string name="my_wishlist">My Wishlist</string>
